@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "rustak",
+  "tak.garden/tak_garden_common",
+  "tak.garden/tak_garden_server",
+  "tak.garden/tak_garden_client"
+]

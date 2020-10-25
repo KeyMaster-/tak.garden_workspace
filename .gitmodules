@@ -1,0 +1,6 @@
+[submodule "rustak"]
+	path = rustak
+	url = https://github.com/KeyMaster-/rustak.git
+[submodule "tak.garden"]
+	path = tak.garden
+	url = https://github.com/KeyMaster-/tak.garden.git
